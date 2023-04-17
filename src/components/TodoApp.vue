@@ -4,8 +4,10 @@
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
   />
 
-  <div>
-    <table class="table-auto border-collapse w-full">
+  <div style="height: 96">
+    <table
+      class="table-auto border-collapse w-full h-96 shadow-lg overflow-y-scroll"
+    >
       <thead class="bg-gray-800 text-white">
         <tr>
           <th class="border border-gray-400 p-2 text-left">Task</th>
